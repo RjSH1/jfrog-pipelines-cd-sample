@@ -1,4 +1,4 @@
-artifactoryIntegration: Art
-distributionIntegration: myDist
-gitIntegration: rajGit
+artifactoryIntegration: myArtifactory
+distributionIntegration: myDistribution
+gitIntegration: myGithub
 gitRepositoryPath: RjSH1/jfrog-pipelines-cd-sample  # replace jfrog with your username or org name
